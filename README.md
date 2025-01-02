@@ -14,6 +14,6 @@ Durante o desenvolvimento, enfrentei alguns desafios que me ajudaram a crescer c
 ### Tecnologias Utilizadas
 - HTML5: Estrutura do projeto.
 - CSS3: Estilização e design responsivo.
-- 
+  
 ### Reflexões Finais
 Este projeto foi um marco no meu aprendizado, pois me permitiu aplicar melhorias práticas com base no feedback recebido. Estou confiante de que os ajustes realizados contribuíram significativamente para minha evolução como desenvolvedor.
